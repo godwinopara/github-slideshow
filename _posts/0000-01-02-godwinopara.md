@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+badge: learning github and git
 Use the left arrow to go back!
